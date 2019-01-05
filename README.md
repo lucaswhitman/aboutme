@@ -54,7 +54,7 @@ It also helps if you [just take a walk](https://birdeemag.com/this-is-your-brain
 ## Other Details
 
 ### Personal History
-I grew up as a bad kid. I dropped out of high school. I spent most of my twenties playing music and working in kitchens. I had a knack for fixing point-of-sale machines in the restaurants I worked at. One day I saw the bill of a professional they hired to do this and I decided to get into tech. I've installed networks, fixed personal computers, worked phone support for a government enterprise IT shop, been a systems administrator, and written production code in at least a dozen languages.
+I grew up as a bad kid. I dropped out of high school. I spent most of my twenties playing music and working in kitchens. I had a knack for fixing point-of-sale machines in the restaurants I worked at. One day I saw the bill of a professional they hired to do this and I decided to get into tech. I've installed networks, fixed personal computers, worked phone support for a government enterprise IT shop, been a systems administrator, and written production code in at least a dozen languages. I've always been drawn to leadership. I tried it and failed epically several times. It wasn't until I started dedicating time towards my non-technical personal growth that I started to really embrace it. Hopefully I'm getting better.
 
 ### Why I Code
 I love the infinite possibilities, and the ability for a small group of humans to create something truly unique from bits. 
