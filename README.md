@@ -20,7 +20,7 @@ Very few things are more important than talking to you if you want to talk to me
 **If you have something urgent, I'll make time regardless of my schedule. Don't wait for our 1:1**
 
 ### Coding
-I write some code too! I'm not perfect. I've caused a lot of bugs. I try not to have any ego regarding my code, call me on my shit.
+I write some code too! I'm not perfect. I've caused a lot of bugs. I try not to have any ego regarding my code, call me on my mistakes.
 
 ## What do I value most?
 
