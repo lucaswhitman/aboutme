@@ -43,8 +43,8 @@ I work a bit on the weekends. This is my choice. I do not expect that you are go
 ### Bias Towards Action
 I heavily bias towards action. Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-### No Broken Windows
-I am a big believer in “no broken windows” when building products: I like clean logs, clean exceptions, clean PagerDuty. Once things go south here it’s very hard to truly understand the health of the system. I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+### Kaizen
+I am a big believer in continuous improvement when building products: I like clean logs, clean exceptions, clean PagerDuty. Once things go south here it’s very hard to truly understand the health of the system. I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
 ### One Hour Rule
 Human beings are wired to be achievement driven. Sometimes staying heads down in a problem and making small gains infrequently is the best feeling in the world. This is due to the hit of dopamine you get when you make a bit of progress. This chemical reaction can be extremely toxic to real progress though. If you're heads down and not making progress in an hour come up for air. Reach out to me or another engineer and we'll try and help unblock you. There's no shame in asking for help, and I strive to have an atmosphere where there's enough psychological safety to be vulnerable. In fact, I ask a lot of questions myself.
