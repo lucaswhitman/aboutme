@@ -19,7 +19,25 @@ At the same time, I believe in **building strong relationships** across departme
 
 If you ever feel like you're facing resistance, confusion, or misalignment when working with other teams, please let me know. I'm here to help navigate those challenges and ensure that we are working towards shared success.I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
 
-### Meetings
+### Strategy
+As a leader, one of my key responsibilities is setting and communicating a clear, effective strategy. I work to ensure that our team is aligned on long-term goals, short-term priorities, and the guiding principles that shape our decisions. Strategy is not just about planning—it’s about focus, adaptability, and making the right trade-offs.
+
+I believe strategy should be a living process, not a rigid plan. I actively seek input from the team, adjust based on feedback and new information, and ensure that we are always moving toward the most impactful outcomes. My goal is to provide clarity and direction while empowering the team to execute with autonomy and creativity.
+
+If something feels misaligned or unclear, I want to hear about it. Strategy should never feel disconnected from execution—it should be a tool that enables better decision-making at every level of the organization.
+
+### Business Operations & Foundations
+Beyond engineering and leadership, I take a holistic approach to ensuring the business operates smoothly and securely. The success of a company isn't just about building great products—it also requires a strong foundation in security, compliance, legal, and operational resilience to scale effectively.
+
+I work closely with legal, finance, and compliance teams to ensure we are operating securely, meeting regulatory requirements, and protecting our customers and employees. This includes:
+* Security & Compliance – Implementing best practices for data protection, risk management, and industry standards adherence to ensure a secure and compliant environment.
+* Contracts & Legal Review – Evaluating agreements to protect the company’s interests while enabling strategic partnerships and mitigating legal risk.
+* Vendor & Partner Management – Assessing third-party providers to ensure reliability, scalability, and cost efficiency while maintaining alignment with our goals.
+* Operational Resilience – Building systems and processes that improve adaptability, efficiency, and long-term sustainability.
+
+While these areas may seem unrelated to engineering at first glance, they are essential to keeping the company running smoothly. I see my role as bridging the gap between technical execution and business fundamentals to create a sustainable and scalable organization.
+
+### All the other meetings
 I go to a lot of meetings, and I see them as a critical part of my role in ensuring alignment, advocating for our team, and helping drive decisions forward. I deliberately keep my calendar publicly visible because I believe in transparency. If you ever have a question about a meeting on my calendar, ask me—I’m always happy to provide context.
 
 If a meeting is private or confidential, its title and attendees will be hidden from your view. However, the vast majority of my meetings are neither private nor confidential. I strive to make sure that meetings I participate in are **useful, efficient, and outcome-driven** rather than just habitual gatherings.
